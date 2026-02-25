@@ -1,7 +1,5 @@
 import java.util.Scanner;
-
-public class Main {
-
+public class Tictaktoe {
     static char[][] board = {
         {' ', ' ', ' '},
         {' ', ' ', ' '},
@@ -99,3 +97,4 @@ public class Main {
         return true;
     }
 }
+
